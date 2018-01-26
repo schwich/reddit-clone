@@ -1,0 +1,9 @@
+.content-segment-vote-segment {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  text-align: center;
+
+  margin: 2px;
+}

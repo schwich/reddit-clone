@@ -1,0 +1,10 @@
+.content-segment {
+  display: flex;
+
+  padding: 5px;
+  margin: 10px;
+}
+
+.content-segment-rank {
+  background-color: blue;
+}
